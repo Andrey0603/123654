@@ -1,0 +1,15 @@
+D:\Учеба\18092023\1\Exampl002\bin\Debug\net6.0\Exampl002.exe
+D:\Учеба\18092023\1\Exampl002\bin\Debug\net6.0\Exampl002.deps.json
+D:\Учеба\18092023\1\Exampl002\bin\Debug\net6.0\Exampl002.runtimeconfig.json
+D:\Учеба\18092023\1\Exampl002\bin\Debug\net6.0\Exampl002.dll
+D:\Учеба\18092023\1\Exampl002\bin\Debug\net6.0\Exampl002.pdb
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.csproj.AssemblyReference.cache
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.AssemblyInfoInputs.cache
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.AssemblyInfo.cs
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.csproj.CoreCompileInputs.cache
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.dll
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\refint\Exampl002.dll
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.pdb
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\Exampl002.genruntimeconfig.cache
+D:\Учеба\18092023\1\Exampl002\obj\Debug\net6.0\ref\Exampl002.dll
